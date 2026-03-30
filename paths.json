@@ -10,10 +10,10 @@
     "/content/wknd-universal/language-masters/ja:/ja",
     "/content/wknd-universal/language-masters/de/:/de/",
     "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/dycomind/configuration:/.helix/config.json",
+    "/content/dycomind/metadata:/metadata.json",
+    "/content/dycomind/redirects:/redirects.json",
+    "/content/dycomind/placeholders:/placeholders.json"
   ],
   "includes": [
 #    "/content/wknd-universal/",
