@@ -16,7 +16,9 @@
     "/content/wknd-universal/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+#    "/content/wknd-universal/",
+    "/content/dycomind/",
+#    "/content/dam/wknd-universal/",
+    "/content/dam/dycomind/"
   ]
 }
